@@ -1,5 +1,3 @@
-# Project Title
-
 ## Overview
 
 This project is designed to automate the process of researching and writing blog posts based on video content from YouTube channels. It utilizes AI agents to perform tasks such as video research and content creation, leveraging advanced language models and embedding tools.
